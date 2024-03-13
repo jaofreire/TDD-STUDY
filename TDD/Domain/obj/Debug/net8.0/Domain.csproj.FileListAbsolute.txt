@@ -9,3 +9,4 @@ E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\obj\Debug\net8.0\Domain.dll
 E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\obj\Debug\net8.0\refint\Domain.dll
 E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\obj\Debug\net8.0\Domain.pdb
 E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\obj\Debug\net8.0\Domain.sourcelink.json
