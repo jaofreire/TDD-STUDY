@@ -1,0 +1,11 @@
+E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\bin\Debug\net8.0\Domain.dll
+E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\bin\Debug\net8.0\Domain.pdb
+E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\obj\Debug\net8.0\Domain.dll
+E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\obj\Debug\net8.0\Domain.pdb
+E:\estudo C#\TDD-Repository\TDD-STUDY\TDD\Domain\obj\Debug\net8.0\ref\Domain.dll
