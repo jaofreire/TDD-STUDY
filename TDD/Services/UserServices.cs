@@ -17,7 +17,7 @@ namespace Services
             var user = await _repository.GetUserByName(username);
             if(user == null) return false;
 
-            var sucess = await _repository.AuthenticateUser(user.Name, password);
+            var sucess = await _repository.AuthenticateUser(username, password);
             return sucess;
         }
     }

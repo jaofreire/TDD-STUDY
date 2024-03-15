@@ -6,13 +6,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TDD.Helper.TestsDoubles.Dummy
+namespace TDD.Helper.TestsDoubles.Stub
 {
     public class UserRepositoryStub : IUserRepository
     {
         public async Task<bool> AuthenticateUser(string username, string password)
         {
-            throw new NotImplementedException();
+            return false;
         }
 
         public async Task<UserModel> GetUserByName(string username)
