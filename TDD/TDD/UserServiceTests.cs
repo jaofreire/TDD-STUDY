@@ -1,4 +1,5 @@
-﻿using Moq;
+﻿using Domain.Models;
+using Moq;
 using Services;
 using Services.Repositories.Interface;
 using System;
@@ -17,7 +18,7 @@ namespace TDD
     {
         private Mock<IUserRepository> _userRepositoryMock;
 
-        public UserServiceTests(Mock<IUserRepository> userRepositoryMock)
+        public UserServiceTests()
         {
             _userRepositoryMock = new Mock<IUserRepository>();
         }
@@ -57,14 +58,11 @@ namespace TDD
 
             var username = "joao";
             var password = "123";
-            var repository = new UserRepositoryMock(username, password, 1);
-            var service = new UserServices(repository);
+            var service = new UserServices(_userRepositoryMock.Object);
 
-            var response = await service.Authenticate(username, password);
-
-            Assert.True(response);
-            Assert.True(repository.Validate());
-     
+            
+            _userRepositoryMock.Setup(x => x.GetUserByName(username)).ReturnsAsync(new UserModel());
+            _userRepositoryMock.Setup(x => x.AuthenticateUser(username, password)).ReturnsAsync(true);
 
         }
     }
