@@ -10,6 +10,11 @@ namespace TDD.Helper.TestsDoubles.Stub
 {
     public class UserRepositoryStub : IUserRepository
     {
+        public Task<bool> Add(UserModel user)
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task<bool> AuthenticateUser(string username, string password)
         {
             return false;

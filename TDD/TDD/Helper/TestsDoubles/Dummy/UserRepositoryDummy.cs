@@ -10,7 +10,11 @@ namespace TDD.Helper.TestsDoubles.Dummy
 {
     public class UserRepositoryDummy : IUserRepository
     {
-        
+        public Task<bool> Add(UserModel user)
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task<bool> AuthenticateUser(string username, string password)
         {
             throw new NotImplementedException();

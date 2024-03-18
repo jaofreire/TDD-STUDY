@@ -20,5 +20,22 @@ namespace Services
             var sucess = await _repository.AuthenticateUser(username, password);
             return sucess;
         }
+
+        public async Task<bool> AddUser(UserModel model)
+        {
+            var userExist = await _repository.GetUserByName(model.Name);
+            if(userExist != null) return false;
+
+            var newUser = new UserModel()
+            {
+                Id = 1,
+                Name = model.Name,
+                Password = model.Password
+            };
+
+            var sucess = await _repository.Add(newUser);
+            return sucess;
+
+        }
     }
 }

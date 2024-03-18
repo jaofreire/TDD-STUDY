@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cj6RGfQ1vpaUUr7f/k8XbilJ9BIzh57c+WwRQkJ4L2f6rkpePaqycJSD5ADi+t86xXVvJiL6eKP7Osh7PMn7aw==",
+  "dgSpecHash": "dYMkPAP9dh08aUeogph6Sa3J87i/sw3BL2w+pWMy7vdMTKbI6tMnstmfEyPjsCTRdsM1vwXO+sIUonPBc/TD3w==",
   "success": true,
   "projectFilePath": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\TDD\\TDD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\bogus\\35.5.0\\bogus.35.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

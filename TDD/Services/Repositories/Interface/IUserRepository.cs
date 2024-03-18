@@ -11,5 +11,6 @@ namespace Services.Repositories.Interface
     {
         Task<UserModel> GetUserByName(string username);
         Task<bool> AuthenticateUser(string username, string password);
+        Task<bool> Add(UserModel user);
     }
 }

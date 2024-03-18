@@ -42,5 +42,10 @@ namespace TDD.Helper.TestsDoubles.Spy
         public string GetName() => lastName;
         public string GetPassword() => lastPassword;
         public int GetCount() => countCall;
+
+        public Task<bool> Add(UserModel user)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
