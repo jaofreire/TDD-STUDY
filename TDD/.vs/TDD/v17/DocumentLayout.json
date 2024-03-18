@@ -3,24 +3,21 @@
   "WorkspaceRootPath": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B733C744-B8B7-4982-B7B5-1A62965A96AB}|TDD\\TDD.csproj|e:\\estudo c#\\tdd-repository\\tdd-study\\tdd\\tdd\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B733C744-B8B7-4982-B7B5-1A62965A96AB}|TDD\\TDD.csproj|solutionrelative:tdd\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B733C744-B8B7-4982-B7B5-1A62965A96AB}|TDD\\TDD.csproj|e:\\estudo c#\\tdd-repository\\tdd-study\\tdd\\tdd\\pixapikeycontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B733C744-B8B7-4982-B7B5-1A62965A96AB}|TDD\\TDD.csproj|solutionrelative:tdd\\pixapikeycontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5D62DCE-AE70-4F79-946E-B70F15228388}|Services\\Services.csproj|e:\\estudo c#\\tdd-repository\\tdd-study\\tdd\\services\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D62DCE-AE70-4F79-946E-B70F15228388}|Services\\Services.csproj|solutionrelative:services\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B733C744-B8B7-4982-B7B5-1A62965A96AB}|TDD\\TDD.csproj|e:\\estudo c#\\tdd-repository\\tdd-study\\tdd\\tdd\\helper\\fixture\\databasepixapifixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B733C744-B8B7-4982-B7B5-1A62965A96AB}|TDD\\TDD.csproj|solutionrelative:tdd\\helper\\fixture\\databasepixapifixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B733C744-B8B7-4982-B7B5-1A62965A96AB}|TDD\\TDD.csproj|e:\\estudo c#\\tdd-repository\\tdd-study\\tdd\\tdd\\helper\\fixture\\usermodelfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B733C744-B8B7-4982-B7B5-1A62965A96AB}|TDD\\TDD.csproj|solutionrelative:tdd\\helper\\fixture\\usermodelfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{557DA34F-0208-433C-B0D3-6832AB7F4F1A}|..\\..\\..\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\PixApi.csproj|e:\\estudo c#\\examdotnetrepository\\developer-exam-dotnet\\pixapi\\pixapi\\controllers\\keycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5D62DCE-AE70-4F79-946E-B70F15228388}|Services\\Services.csproj|e:\\estudo c#\\tdd-repository\\tdd-study\\tdd\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D62DCE-AE70-4F79-946E-B70F15228388}|Services\\Services.csproj|solutionrelative:services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{557DA34F-0208-433C-B0D3-6832AB7F4F1A}|..\\..\\..\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\PixApi.csproj|e:\\estudo c#\\examdotnetrepository\\developer-exam-dotnet\\pixapi\\pixapi\\repositories\\keyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B733C744-B8B7-4982-B7B5-1A62965A96AB}|TDD\\TDD.csproj|e:\\estudo c#\\tdd-repository\\tdd-study\\tdd\\tdd\\helper\\testsdoubles\\fakes\\userrepositoryfakes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B733C744-B8B7-4982-B7B5-1A62965A96AB}|TDD\\TDD.csproj|solutionrelative:tdd\\helper\\testsdoubles\\fakes\\userrepositoryfakes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{557DA34F-0208-433C-B0D3-6832AB7F4F1A}|..\\..\\..\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\PixApi.csproj|e:\\estudo c#\\examdotnetrepository\\developer-exam-dotnet\\pixapi\\pixapi\\validations\\keyvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +27,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,67 +43,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserModelFixture.cs",
-              "DocumentMoniker": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\TDD\\Helper\\Fixture\\UserModelFixture.cs",
-              "RelativeDocumentMoniker": "TDD\\Helper\\Fixture\\UserModelFixture.cs",
-              "ToolTip": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\TDD\\Helper\\Fixture\\UserModelFixture.cs",
-              "RelativeToolTip": "TDD\\Helper\\Fixture\\UserModelFixture.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "DocumentIndex": 4,
+              "Title": "KeyValidations.cs",
+              "DocumentMoniker": "E:\\estudo C#\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\Validations\\KeyValidations.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\Validations\\KeyValidations.cs",
+              "ToolTip": "E:\\estudo C#\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\Validations\\KeyValidations.cs",
+              "RelativeToolTip": "..\\..\\..\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\Validations\\KeyValidations.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T11:28:11.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\Services\\Repositories\\Interface\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Repositories\\Interface\\IUserRepository.cs",
-              "ToolTip": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\Services\\Repositories\\Interface\\IUserRepository.cs",
-              "RelativeToolTip": "Services\\Repositories\\Interface\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T02:11:19.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserServiceTests.cs",
-              "DocumentMoniker": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\TDD\\UserServiceTests.cs",
-              "RelativeDocumentMoniker": "TDD\\UserServiceTests.cs",
-              "ToolTip": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\TDD\\UserServiceTests.cs",
-              "RelativeToolTip": "TDD\\UserServiceTests.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAiwGYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T01:33:25.794Z",
+              "WhenOpened": "2024-03-18T15:31:47.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserServices.cs",
-              "DocumentMoniker": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\Services\\UserServices.cs",
-              "RelativeDocumentMoniker": "Services\\UserServices.cs",
-              "ToolTip": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\Services\\UserServices.cs",
-              "RelativeToolTip": "Services\\UserServices.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowCYAAAAIAAAA",
+              "Title": "KeyRepository.cs",
+              "DocumentMoniker": "E:\\estudo C#\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\Repositories\\KeyRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\Repositories\\KeyRepository.cs",
+              "ToolTip": "E:\\estudo C#\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\Repositories\\KeyRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\Repositories\\KeyRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T01:32:27.043Z",
+              "WhenOpened": "2024-03-18T14:41:59.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRepositoryFakes.cs",
-              "DocumentMoniker": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\TDD\\Helper\\TestsDoubles\\Fakes\\UserRepositoryFakes.cs",
-              "RelativeDocumentMoniker": "TDD\\Helper\\TestsDoubles\\Fakes\\UserRepositoryFakes.cs",
-              "ToolTip": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\TDD\\Helper\\TestsDoubles\\Fakes\\UserRepositoryFakes.cs",
-              "RelativeToolTip": "TDD\\Helper\\TestsDoubles\\Fakes\\UserRepositoryFakes.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAApAAAA",
+              "DocumentIndex": 2,
+              "Title": "KeyController.cs",
+              "DocumentMoniker": "E:\\estudo C#\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\Controllers\\KeyController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\Controllers\\KeyController.cs",
+              "ToolTip": "E:\\estudo C#\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\Controllers\\KeyController.cs",
+              "RelativeToolTip": "..\\..\\..\\ExamDotnetRepository\\developer-exam-dotnet\\PixApi\\PixApi\\Controllers\\KeyController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T01:29:41.836Z",
+              "WhenOpened": "2024-03-18T14:19:07.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBasePixApiFixture.cs",
+              "DocumentMoniker": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\TDD\\Helper\\Fixture\\DataBasePixApiFixture.cs",
+              "RelativeDocumentMoniker": "TDD\\Helper\\Fixture\\DataBasePixApiFixture.cs",
+              "ToolTip": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\TDD\\Helper\\Fixture\\DataBasePixApiFixture.cs",
+              "RelativeToolTip": "TDD\\Helper\\Fixture\\DataBasePixApiFixture.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:29:45.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PixApiKeyControllerTest.cs",
+              "DocumentMoniker": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\TDD\\PixApiKeyControllerTest.cs",
+              "RelativeDocumentMoniker": "TDD\\PixApiKeyControllerTest.cs",
+              "ToolTip": "E:\\estudo C#\\TDD-Repository\\TDD-STUDY\\TDD\\TDD\\PixApiKeyControllerTest.cs",
+              "RelativeToolTip": "TDD\\PixApiKeyControllerTest.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:24:21.711Z",
               "EditorCaption": ""
             }
           ]
